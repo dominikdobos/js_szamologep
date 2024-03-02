@@ -1,9 +1,11 @@
 import {
   szamokLetrehozasa,
   szamokMegadas,
-  muveletiJelek,
+  muvJelek,
+  szamolasEsTorles,
 } from "/fuggvenyek.js";
 
 szamokLetrehozasa();
 szamokMegadas();
-muveletiJelek();
+muvJelek();
+szamolasEsTorles();
