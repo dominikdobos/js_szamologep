@@ -3,7 +3,7 @@ import {
   szamokMegadas,
   muvJelek,
   szamolasEsTorles,
-} from "/fuggvenyek.js";
+} from "./fuggvenyek.js";
 
 szamokLetrehozasa();
 szamokMegadas();
